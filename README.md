@@ -1,2 +1,1 @@
-# eclipse-a-z
-Eclipse A-Z
+# Eclipse A-Z
